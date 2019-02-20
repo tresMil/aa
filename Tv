@@ -1,0 +1,365 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="Multimedios Monterrey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/200px-Multimedios_Television.png" group-title="MEXICO",Multimedios Monterrey
+http://144.76.9.9:25461/live/XV7/12345/261.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Rampage: devastación" tvg-logo="http://apptv-mx.com/ARCHIVOS%20MIOS/IMAGENES/Rampagedevastaci%C3%B3n.jpg" group-title="PELICULAS 2018",Rampage: devastación
+http://144.76.9.9:25461/movie/XV7/12345/251.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Deadpool 2 (2018)" tvg-logo="http://apptv-mx.com/ARCHIVOS%20MIOS/IMAGENES/DEAPOOL2.jpg" group-title="PELICULAS 2018",Deadpool 2 (2018)
+http://144.76.9.9:25461/movie/XV7/12345/248.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="Alfa (2018)" tvg-logo="http://apptv-mx.com/ARCHIVOS%20MIOS/IMAGENES/Alfa.jpg" group-title="PELICULAS 2018",Alfa (2018)
+http://144.76.9.9:25461/movie/XV7/12345/252.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="WIN SPORTS  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524753329060-Imagen.png" group-title="DEPORTES",WIN SPORTS  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/211.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WARNER HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1498578709220-Imagen.png" group-title="SERIES",WARNER HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/144.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WARNER HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548943157441-Imagen.jpg" group-title="SERIES",WARNER HD
+http://144.76.9.9:25461/live/XV7/12345/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UNO" tvg-logo="" group-title="ENTRETENIMIENTO",UNO
+http://144.76.9.9:25461/live/XV7/12345/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVERSAL CHANNEL  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1538357382497-Imagen.jpg" group-title="SERIES",UNIVERSAL CHANNEL  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/153.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UNIVERSAL CHANNEL" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548106243134-Imagen.jpg" group-title="SERIES",UNIVERSAL CHANNEL
+http://144.76.9.9:25461/live/XV7/12345/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV5" tvg-logo="" group-title="ENTRETENIMIENTO",TV5
+http://144.76.9.9:25461/live/XV7/12345/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV AGRO HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351043318-Imagen.png" group-title="CULTURALES",TV AGRO HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/240.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV AGRO HD" tvg-logo="" group-title="ENTRETENIMIENTO",TV AGRO HD
+http://144.76.9.9:25461/live/XV7/12345/107.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRUTV HD   (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350240843-Imagen.png" group-title="SERIES",TRUTV HD   (1080p)
+http://144.76.9.9:25461/live/XV7/12345/237.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRUTV HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351311572-Imagen.png" group-title="SERIES",TRUTV HD
+http://144.76.9.9:25461/live/XV7/12345/104.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529355837715-Imagen.png" group-title="CINEMA",TNT SERIES HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/143.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT SERIES HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529359653285-Imagen.png" group-title="SERIES",TNT SERIES HD
+http://144.76.9.9:25461/live/XV7/12345/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529349698082-Imagen.png" group-title="CINEMA",TNT HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/142.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TNT HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529361703236-Imagen.png" group-title="CINEMA",TNT HD
+http://144.76.9.9:25461/live/XV7/12345/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLNOVELAS" tvg-logo="" group-title="ENTRETENIMIENTO",TLNOVELAS
+http://144.76.9.9:25461/live/XV7/12345/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548948545038-Imagen.png" group-title="CULTURALES",TLC
+http://144.76.9.9:25461/live/XV7/12345/105.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEPACIFICO" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1550089024471-Imagen.jpg" group-title="INTERNACIONAL",TELEPACIFICO
+http://144.76.9.9:25461/live/XV7/12345/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1527802761179-Imagen.png" group-title="ENTRETENIMIENTO",TELEMUNDO INTERNACIONAL
+http://144.76.9.9:25461/live/XV7/12345/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEMUNDO" tvg-logo="" group-title="ENTRETENIMIENTO",TELEMUNDO
+http://144.76.9.9:25461/live/XV7/12345/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELECAFE" tvg-logo="" group-title="ENTRETENIMIENTO",TELECAFE
+http://144.76.9.9:25461/live/XV7/12345/86.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TELEANTIOQUIA" tvg-logo="" group-title="ENTRETENIMIENTO",TELEANTIOQUIA
+http://144.76.9.9:25461/live/XV7/12345/85.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TCM" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1523466198021-Imagen.png" group-title="CINEMA",TCM
+http://144.76.9.9:25461/live/XV7/12345/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581272504-Imagen.png" group-title="CINEMA",SUNDANCE HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/147.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SUNDANCE HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581272504-Imagen.png" group-title="CINEMA",SUNDANCE HD
+http://144.76.9.9:25461/live/XV7/12345/40.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPACE HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529359619125-Imagen.png" group-title="CINEMA",SPACE HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/135.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SPACE HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548106000841-Imagen.jpg" group-title="CINEMA",SPACE HD
+http://144.76.9.9:25461/live/XV7/12345/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1550088710495-Imagen.jpg" group-title="SERIES",SONY HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/154.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SONY HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1550088583809-Imagen.jpg" group-title="SERIES",SONY HD
+http://144.76.9.9:25461/live/XV7/12345/47.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RED HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548105966784-Imagen.jpg" group-title="INTERNACIONAL",RED HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/184.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RED HD" tvg-logo="" group-title="ENTRETENIMIENTO",RED HD
+http://144.76.9.9:25461/live/XV7/12345/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Red Bull TV" tvg-logo="data:image/jpeg;base64,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" group-title="DEPORTES",Red Bull TV
+http://144.76.9.9:25461/live/XV7/12345/255.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RCN TELENOVELAS" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529360472132-Imagen.png" group-title="ENTRETENIMIENTO",RCN TELENOVELAS
+http://144.76.9.9:25461/live/XV7/12345/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PASIONES HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529358108474-Imagen.png" group-title="ENTRETENIMIENTO",PASIONES HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/159.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PASIONES HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529355920762-Imagen.png" group-title="ENTRETENIMIENTO",PASIONES HD
+http://144.76.9.9:25461/live/XV7/12345/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548884006861-Imagen.png" group-title="CINEMA",PARAMOUNT HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/163.ts
+#EXTINF:-1 tvg-ID="" tvg-name="PARAMOUNT HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548105887143-Imagen.png" group-title="CINEMA",PARAMOUNT HD
+http://144.76.9.9:25461/live/XV7/12345/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICKELODEON HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529363227239-Imagen.jpg" group-title="INFANTILES",NICKELODEON HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/202.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICK JR HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529352052379-Imagen.png" group-title="INFANTILES",NICK JR HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/206.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NICK 2  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548102541164-Imagen.png" group-title="INFANTILES",NICK 2  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/209.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO WILD HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1535778878273-Imagen.png" group-title="CULTURALES",NATGEO WILD HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/226.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO WILD HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1535778838863-Imagen.png" group-title="CULTURALES",NATGEO WILD HD
+http://144.76.9.9:25461/live/XV7/12345/93.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NATGEO KIDS HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1505316301766-Imagen.jpg" group-title="INFANTILES",NATGEO KIDS HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/201.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MULTIPREMIER" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1539802729906-Imagen.png" group-title="CINEMA",MULTIPREMIER
+http://144.76.9.9:25461/live/XV7/12345/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV LIVE HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524665104829-Imagen.png" group-title="MUSICA",MTV LIVE HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/243.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548106070475-Imagen.png" group-title="MUSICA",MTV HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/241.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MP" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1539802729906-Imagen.png" group-title="CINEMA",MP
+http://144.76.9.9:25461/live/XV7/12345/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX UP HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524665764569-Imagen.jpg" group-title="CINEMA PREMIUM FULL HD",MAX UP HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/150.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX UP HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1544128874195-Imagen.jpg" group-title="CINEMA PREMIUM",MAX UP HD
+http://144.76.9.9:25461/live/XV7/12345/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX PRIME HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548791043911-Imagen.png" group-title="CINEMA PREMIUM FULL HD",MAX PRIME HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/161.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MAX PRIME HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548791043911-Imagen.png" group-title="CINEMA PREMIUM",MAX PRIME HD
+http://144.76.9.9:25461/live/XV7/12345/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MASCHIC HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581125002-Imagen.png" group-title="ENTRETENIMIENTO",MASCHIC HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/165.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MASCHIC HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548946350436-Imagen.png" group-title="ENTRETENIMIENTO",MASCHIC HD
+http://144.76.9.9:25461/live/XV7/12345/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LIFETIME" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529362966913-Imagen.jpg" group-title="ENTRETENIMIENTO",LIFETIME
+http://144.76.9.9:25461/live/XV7/12345/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ISAT" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1523469206968-Imagen.png" group-title="CINEMA",ISAT
+http://144.76.9.9:25461/live/XV7/12345/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="INVESTIGATION DISCOVERY [DUAL]" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529360052306-Imagen.jpg" group-title="CULTURALES",INVESTIGATION DISCOVERY [DUAL]
+http://144.76.9.9:25461/live/XV7/12345/102.ts
+#EXTINF:-1 tvg-ID="" tvg-name="IBERO" tvg-logo="" group-title="ENTRETENIMIENTO",IBERO
+http://144.76.9.9:25461/live/XV7/12345/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HTV" tvg-logo="" group-title="INTERNACIONAL",HTV
+http://144.76.9.9:25461/live/XV7/12345/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HOLA TV HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529358689130-Imagen.png" group-title="ENTRETENIMIENTO",HOLA TV HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/137.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HOLA TV HD" tvg-logo="" group-title="ENTRETENIMIENTO",HOLA TV HD
+http://144.76.9.9:25461/live/XV7/12345/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE HD (1080p)" tvg-logo="" group-title="CINEMA PREMIUM FULL HD",HBO SIGNATURE HD (1080p)
+http://144.76.9.9:25461/live/XV7/12345/112.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO SIGNATURE HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1544129519878-Imagen.jpg" group-title="CINEMA PREMIUM",HBO SIGNATURE HD
+http://144.76.9.9:25461/live/XV7/12345/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS HD  (1080p)" tvg-logo="" group-title="CINEMA PREMIUM FULL HD",HBO PLUS HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/110.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO PLUS HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548790082500-Imagen.png" group-title="CINEMA PREMIUM",HBO PLUS HD
+http://144.76.9.9:25461/live/XV7/12345/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY HD  (1080p)" tvg-logo="" group-title="CINEMA PREMIUM FULL HD",HBO FAMILY HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/111.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO FAMILY HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1544131282697-Imagen.jpg" group-title="CINEMA PREMIUM",HBO FAMILY HD
+http://144.76.9.9:25461/live/XV7/12345/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 HD (1080p)" tvg-logo="" group-title="CINEMA PREMIUM FULL HD",HBO 2 HD (1080p)
+http://144.76.9.9:25461/live/XV7/12345/109.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO 2 HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548948320646-Imagen.jpg" group-title="CINEMA PREMIUM",HBO 2 HD
+http://144.76.9.9:25461/live/XV7/12345/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO   (1080p)" tvg-logo="" group-title="CINEMA PREMIUM FULL HD",HBO   (1080p)
+http://144.76.9.9:25461/live/XV7/12345/108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="HBO" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752421749-Imagen.jpg" group-title="CINEMA PREMIUM",HBO
+http://144.76.9.9:25461/live/XV7/12345/1.ts
+#EXTINF:-1 tvg-ID="" tvg-name="H2" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1547591462598-Imagen.jpg" group-title="CULTURALES",H2
+http://144.76.9.9:25461/live/XV7/12345/97.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOURMET HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351491299-Imagen.png" group-title="ENTRETENIMIENTO",GOURMET HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/146.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOURMET HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351491299-Imagen.png" group-title="ENTRETENIMIENTO",GOURMET HD
+http://144.76.9.9:25461/live/XV7/12345/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLF LATIN AMERICA   (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529360658802-Imagen.png" group-title="DEPORTES",GOLF LATIN AMERICA   (1080p)
+http://144.76.9.9:25461/live/XV7/12345/216.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN PREMIER HD  (1080p)" tvg-logo="https://www.clarochile.cl/portal/cl/cpp/imagenes/1493741464141-Imagen.png" group-title="CINEMA PREMIUM FULL HD",GOLDEN PREMIER HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/140.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN PREMIER HD" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" group-title="CINEMA",GOLDEN PREMIER HD
+http://144.76.9.9:25461/live/XV7/12345/33.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN PLUS   (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1516294172305-Imagen.jpg" group-title="CINEMA PREMIUM FULL HD",GOLDEN PLUS   (1080p)
+http://144.76.9.9:25461/live/XV7/12345/175.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN PLUS" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1516294172305-Imagen.jpg" group-title="CINEMA",GOLDEN PLUS
+http://144.76.9.9:25461/live/XV7/12345/68.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548105908952-Imagen.png" group-title="CINEMA PREMIUM FULL HD",GOLDEN HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/139.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GOLDEN HD" tvg-logo="https://www.sky.com.mx/Code/templates/images/channels/36sky-logo-Golden.jpg" group-title="CINEMA",GOLDEN HD
+http://144.76.9.9:25461/live/XV7/12345/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GLITZ" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350079311-Imagen.png" group-title="ENTRETENIMIENTO",GLITZ
+http://144.76.9.9:25461/live/XV7/12345/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FXM   (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356196112-Imagen.jpg" group-title="SERIES",FXM   (1080p)
+http://144.76.9.9:25461/live/XV7/12345/127.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FXM" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356141526-Imagen.jpg" group-title="SERIES",FXM
+http://144.76.9.9:25461/live/XV7/12345/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FX HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350139808-Imagen.png" group-title="SERIES",FX HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/128.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FX HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351665895-Imagen.png" group-title="SERIES",FX HD
+http://144.76.9.9:25461/live/XV7/12345/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOXNEWS" tvg-logo="" group-title="INTERNACIONAL",FOXNEWS
+http://144.76.9.9:25461/live/XV7/12345/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOXMOVIES HD  (1080p)" tvg-logo="" group-title="CINEMA PREMIUM FULL HD",FOXMOVIES HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/119.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUM MOVIES" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689112756-Imagen.png" group-title="CINEMA PREMIUM",FOX PREMIUM MOVIES
+http://144.76.9.9:25461/live/XV7/12345/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOXFAMILY HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689265342-Imagen.png" group-title="CINEMA PREMIUM FULL HD",FOXFAMILY HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/197.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOXACTION HD  (1080p)" tvg-logo="" group-title="CINEMA PREMIUM FULL HD",FOXACTION HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/118.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUM ACTION" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541688930605-Imagen.png" group-title="CINEMA PREMIUM",FOX PREMIUM ACTION
+http://144.76.9.9:25461/live/XV7/12345/11.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS 3  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351394781-Imagen.png" group-title="DEPORTES",FOX SPORTS 3  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/215.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORTS  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1523465898810-Imagen.png" group-title="DEPORTES",FOX SPORTS  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/213.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SPORT 2   (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1523465846536-Imagen.png" group-title="DEPORTES",FOX SPORT 2   (1080p)
+http://144.76.9.9:25461/live/XV7/12345/214.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SERIES  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689232081-Imagen.png" group-title="CINEMA PREMIUM FULL HD",FOX SERIES  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/124.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX SERIES" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689139419-Imagen.png" group-title="CINEMA PREMIUM",FOX SERIES
+http://144.76.9.9:25461/live/XV7/12345/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUN MOVIES  (1080p)" tvg-logo="" group-title="CINEMA PREMIUM FULL HD",FOX PREMIUN MOVIES  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/120.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUN MOVIES 2" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689112756-Imagen.png" group-title="CINEMA PREMIUM",FOX PREMIUN MOVIES 2
+http://144.76.9.9:25461/live/XV7/12345/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUN FAMILY  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689265342-Imagen.png" group-title="CINEMA PREMIUM FULL HD",FOX PREMIUN FAMILY  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/121.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUN FAMILY" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689079860-Imagen.png" group-title="CINEMA PREMIUM",FOX PREMIUN FAMILY
+http://144.76.9.9:25461/live/XV7/12345/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUN ACTION  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689374818-Imagen.png" group-title="CINEMA PREMIUM FULL HD",FOX PREMIUN ACTION  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/122.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX PREMIUN ACTION" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541688930605-Imagen.png" group-title="CINEMA PREMIUM",FOX PREMIUN ACTION
+http://144.76.9.9:25461/live/XV7/12345/15.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1550088492599-Imagen.jpg" group-title="SERIES",FOX LIFE HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/130.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX LIFE HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350853791-Imagen.png" group-title="SERIES",FOX LIFE HD
+http://144.76.9.9:25461/live/XV7/12345/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1523466260878-Imagen.png" group-title="SERIES",FOX HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/129.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548106286246-Imagen.png" group-title="SERIES",FOX HD
+http://144.76.9.9:25461/live/XV7/12345/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689411743-Imagen.png" group-title="CINEMA PREMIUM FULL HD",FOX COMEDY HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/123.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX COMEDY HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689039127-Imagen.png" group-title="CINEMA PREMIUM",FOX COMEDY HD
+http://144.76.9.9:25461/live/XV7/12345/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CLASSICS HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689344993-Imagen.png" group-title="CINEMA PREMIUM FULL HD",FOX CLASSICS HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/125.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CLASSICS HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689000204-Imagen.png" group-title="CINEMA PREMIUM",FOX CLASSICS HD
+http://144.76.9.9:25461/live/XV7/12345/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CINEMA HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541689190240-Imagen.png" group-title="CINEMA PREMIUM FULL HD",FOX CINEMA HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/126.ts
+#EXTINF:-1 tvg-ID="" tvg-name="FOX CINEMA HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1541688965084-Imagen.png" group-title="CINEMA PREMIUM",FOX CINEMA HD
+http://144.76.9.9:25461/live/XV7/12345/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EWTN" tvg-logo="" group-title="ENTRETENIMIENTO",EWTN
+http://144.76.9.9:25461/live/XV7/12345/90.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESPN   (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350605976-Imagen.png" group-title="DEPORTES",ESPN   (1080p)
+http://144.76.9.9:25461/live/XV7/12345/217.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESNE" tvg-logo="" group-title="ENTRETENIMIENTO",ESNE
+http://144.76.9.9:25461/live/XV7/12345/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ENLACE" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529358914219-Imagen.jpg" group-title="RELIGIOSO",ENLACE
+http://144.76.9.9:25461/live/XV7/12345/81.ts
+#EXTINF:-1 tvg-ID="" tvg-name="E!" tvg-logo="" group-title="ENTRETENIMIENTO",E!
+http://144.76.9.9:25461/live/XV7/12345/48.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISNEY HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524665170965-Imagen.png" group-title="INFANTILES",DISNEY HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/199.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351783652-Imagen.png" group-title="CULTURALES",DISCOVERY WORLD HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/228.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY WORLD HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351783652-Imagen.png" group-title="CULTURALES",DISCOVERY WORLD HD
+http://144.76.9.9:25461/live/XV7/12345/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY TURBO" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1527802508384-Imagen.png" group-title="CULTURALES",DISCOVERY TURBO
+http://144.76.9.9:25461/live/XV7/12345/92.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY THEATER HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529363267982-Imagen.jpg" group-title="CULTURALES",DISCOVERY THEATER HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/227.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY THEATER HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529363267982-Imagen.jpg" group-title="CULTURALES",DISCOVERY THEATER HD
+http://144.76.9.9:25461/live/XV7/12345/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529361199449-Imagen.png" group-title="CULTURALES",DISCOVERY SCIENCE
+http://144.76.9.9:25461/live/XV7/12345/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY KIDS HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524751968438-Imagen.png" group-title="INFANTILES",DISCOVERY KIDS HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/200.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY ID HD (1080)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529360052306-Imagen.jpg" group-title="CULTURALES",DISCOVERY ID HD (1080)
+http://144.76.9.9:25461/live/XV7/12345/235.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HOME HEALTH HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752058856-Imagen.png" group-title="CULTURALES",DISCOVERY HOME HEALTH HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/234.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY HOME HEALTH HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350506879-Imagen.png" group-title="ENTRETENIMIENTO",DISCOVERY HOME HEALTH HD
+http://144.76.9.9:25461/live/XV7/12345/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CIVILIZATION" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529358461383-Imagen.png" group-title="CULTURALES",DISCOVERY CIVILIZATION
+http://144.76.9.9:25461/live/XV7/12345/99.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524665339624-Imagen.jpg" group-title="CULTURALES",DISCOVERY CHANNEL HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/233.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356411831-Imagen.png" group-title="CULTURALES",DISCOVERY CHANNEL HD
+http://144.76.9.9:25461/live/XV7/12345/100.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DHE HD  (1080p)" tvg-logo="https://imagenes.gatotv.com/logos/canales/dhe-mediano.png" group-title="INTERNACIONAL",DHE HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/239.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DHE HD" tvg-logo="" group-title="ENTRETENIMIENTO",DHE HD
+http://144.76.9.9:25461/live/XV7/12345/106.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DE PELICULA" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1550088359033-Imagen.jpg" group-title="CINEMA",DE PELICULA
+http://144.76.9.9:25461/live/XV7/12345/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DATAIFX" tvg-logo="" group-title="ENTRETENIMIENTO",DATAIFX
+http://144.76.9.9:25461/live/XV7/12345/89.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CRISTOVISION" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1543010686885-Imagen.png" group-title="RELIGIOSO",CRISTOVISION
+http://144.76.9.9:25461/live/XV7/12345/80.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CONCERT CHANNEL HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1543010806066-Imagen.png" group-title="MUSICA",CONCERT CHANNEL HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/247.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524753383437-Imagen.png" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/168.ts
+#EXTINF:-1 tvg-ID="" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1544129182857-Imagen.jpg" group-title="ENTRETENIMIENTO",COMEDY CENTRAL HD
+http://144.76.9.9:25461/live/XV7/12345/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN INTERNACIONAL" tvg-logo="" group-title="INTERNACIONAL",CNN INTERNACIONAL
+http://144.76.9.9:25461/live/XV7/12345/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN ESPANOL" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529363103459-Imagen.jpg" group-title="INTERNACIONAL",CNN ESPANOL
+http://144.76.9.9:25461/live/XV7/12345/41.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO SPORTS LATAM HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529361672967-Imagen.png" group-title="DEPORTES",CLARO SPORTS LATAM HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/210.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO SPORT  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529359085406-Imagen.png" group-title="DEPORTES",CLARO SPORT  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/212.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529361456218-Imagen.png" group-title="INTERNACIONAL",CLARO HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/172.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO HD" tvg-logo="" group-title="ENTRETENIMIENTO",CLARO HD
+http://144.76.9.9:25461/live/XV7/12345/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CLARO CINEMA" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548942215960-Imagen.png" group-title="CINEMA",CLARO CINEMA
+http://144.76.9.9:25461/live/XV7/12345/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CITY NOTICIAS" tvg-logo="" group-title="ENTRETENIMIENTO",CITY NOTICIAS
+http://144.76.9.9:25461/live/XV7/12345/84.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548106144643-Imagen.png" group-title="CINEMA",CINEMAX
+http://144.76.9.9:25461/live/XV7/12345/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA +" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351600252-Imagen.png" group-title="CINEMA",CINEMA +
+http://144.76.9.9:25461/live/XV7/12345/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINEMA DINAMITA" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529360949748-Imagen.png" group-title="CINEMA",CINEMA DINAMITA
+http://144.76.9.9:25461/live/XV7/12345/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINELATINO" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1523465780332-Imagen.png" group-title="CINEMA",CINELATINO
+http://144.76.9.9:25461/live/XV7/12345/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINECANAL HD  (1080p)" tvg-logo="" group-title="CINEMA",CINECANAL HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/114.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CINECANAL HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1535778766504-Imagen.png" group-title="CINEMA",CINECANAL HD
+http://144.76.9.9:25461/live/XV7/12345/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWORK HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1548102798917-Imagen.png" group-title="INFANTILES",CARTOON NETWORK HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARACOL HD 2   (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529363057785-Imagen.jpg" group-title="INTERNACIONAL",CARACOL HD 2   (1080p)
+http://144.76.9.9:25461/live/XV7/12345/170.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARACOL HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356644165-Imagen.jpg" group-title="INTERNACIONAL",CARACOL HD
+http://144.76.9.9:25461/live/XV7/12345/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARACOL  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529363057785-Imagen.jpg" group-title="INTERNACIONAL",CARACOL  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/171.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CARACOL" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356644165-Imagen.jpg" group-title="INTERNACIONAL",CARACOL
+http://144.76.9.9:25461/live/XV7/12345/64.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL TRO" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529352140112-Imagen.png" group-title="INTERNACIONAL",CANAL TRO
+http://144.76.9.9:25461/live/XV7/12345/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL CLARO HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529362151465-Imagen.png" group-title="INTERNACIONAL",CANAL CLARO HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/164.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CANAL CLARO HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529361456218-Imagen.png" group-title="ENTRETENIMIENTO",CANAL CLARO HD
+http://144.76.9.9:25461/live/XV7/12345/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CABLENOTICIAS   (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1524752199942-Imagen.png" group-title="INTERNACIONAL",CABLENOTICIAS   (1080p)
+http://144.76.9.9:25461/live/XV7/12345/185.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CABLENOTICIAS" tvg-logo="" group-title="ENTRETENIMIENTO",CABLENOTICIAS
+http://144.76.9.9:25461/live/XV7/12345/78.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC WORLD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529358766114-Imagen.png" group-title="INTERNACIONAL",BBC WORLD
+http://144.76.9.9:25461/live/XV7/12345/31.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AZTECA+" tvg-logo="https://static.azteca.com/imagenes/2018/47/logoamas-2272585.png" group-title="MEXICO",AZTECA+
+http://144.76.9.9:25461/live/XV7/12345/253.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AZMUNDO HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529356005959-Imagen.png" group-title="INTERNACIONAL",AZMUNDO HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/156.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AZMUNDO HD" tvg-logo="" group-title="ENTRETENIMIENTO",AZMUNDO HD
+http://144.76.9.9:25461/live/XV7/12345/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AZCORAZON HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1498581240996-Imagen.png" group-title="INTERNACIONAL",AZCORAZON HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/169.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AZCORAZON HD" tvg-logo="" group-title="ENTRETENIMIENTO",AZCORAZON HD
+http://144.76.9.9:25461/live/XV7/12345/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529351239629-Imagen.png" group-title="SERIES",AXN HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/152.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AXN HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529361955270-Imagen.png" group-title="SERIES",AXN HD
+http://144.76.9.9:25461/live/XV7/12345/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ARIRANG" tvg-logo="" group-title="ENTRETENIMIENTO",ARIRANG
+http://144.76.9.9:25461/live/XV7/12345/82.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANTV" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529357045662-Imagen.png" group-title="INTERNACIONAL",ANTV
+http://144.76.9.9:25461/live/XV7/12345/87.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1547673114045-Imagen.png" group-title="CULTURALES",ANIMAL PLANET HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/236.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET HD" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1547673089611-Imagen.png" group-title="CULTURALES",ANIMAL PLANET HD
+http://144.76.9.9:25461/live/XV7/12345/103.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AMC HD  (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529359588416-Imagen.png" group-title="CINEMA",AMC HD  (1080p)
+http://144.76.9.9:25461/live/XV7/12345/167.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E (1080p)" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529349638577-Imagen.png" group-title="SERIES",A&E (1080p)
+http://144.76.9.9:25461/live/XV7/12345/132.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A&E" tvg-logo="https://www.claro.com.co/portal/recursos/co//gc/imagenes/1529350987986-Imagen.png" group-title="SERIES",A&E
+http://144.76.9.9:25461/live/XV7/12345/25.ts
